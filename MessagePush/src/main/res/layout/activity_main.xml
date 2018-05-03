@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--<FrameLayout-->
+    <!--android:id="@+id/main_container"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="0dp"-->
+    <!--android:layout_weight="1">-->
+
+    <!--</FrameLayout>-->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/main_vp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></android.support.v4.view.ViewPager>
+
+    <RadioGroup
+        android:id="@+id/main_rg"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/main_gb_1"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/rg_checked"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="一"
+            android:textColor="#008cff" />
+
+        <RadioButton
+            android:id="@+id/main_gb_2"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/rg_checked"
+            android:button="@null"
+            android:gravity="center"
+            android:text="二"
+            android:textColor="#008cff" />
+
+        <RadioButton
+            android:id="@+id/main_gb_3"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/rg_checked"
+            android:button="@null"
+            android:gravity="center"
+            android:text="三"
+            android:textColor="#008cff" />
+
+        <RadioButton
+            android:id="@+id/main_gb_4"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/rg_checked"
+            android:button="@null"
+            android:gravity="center"
+            android:text="四"
+            android:textColor="#008cff" />
+    </RadioGroup>
+</LinearLayout>

@@ -1,0 +1,4 @@
+#Thu May 03 10:05:43 CST 2018
+base.0=E\:\\AndroidProject\\LightPush_Web\\MessagePush\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\AndroidProject\\LightPush_Web\\MessagePush\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

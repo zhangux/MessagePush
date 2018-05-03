@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidFx" />
+            <option value="$PROJECT_DIR$/ArcFaceDemo" />
+            <option value="$PROJECT_DIR$/Imgedit" />
+            <option value="$PROJECT_DIR$/MessagePush" />
+            <option value="$PROJECT_DIR$/PhonePass" />
+            <option value="$PROJECT_DIR$/QQT" />
+            <option value="$PROJECT_DIR$/TestSMS" />
+            <option value="$PROJECT_DIR$/androidWebsocket" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/com.cjj.beautifulrefreshlayout" />
+            <option value="$PROJECT_DIR$/light_push_client" />
+            <option value="$PROJECT_DIR$/light_push_frame" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

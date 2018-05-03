@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidFx/AndroidFx.iml" filepath="$PROJECT_DIR$/AndroidFx/AndroidFx.iml" />
+      <module fileurl="file://E:\AndroidProject\LightPush_Web\TestSMS\AndroidServiceDemo.iml" filepath="E:\AndroidProject\LightPush_Web\TestSMS\AndroidServiceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArcFaceDemo/ArcFaceDemo.iml" filepath="$PROJECT_DIR$/ArcFaceDemo/ArcFaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imgedit/Imgedit.iml" filepath="$PROJECT_DIR$/Imgedit/Imgedit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LightPush_Web.iml" filepath="$PROJECT_DIR$/LightPush_Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessagePush/MessagePush.iml" filepath="$PROJECT_DIR$/MessagePush/MessagePush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhonePass/PhonePass.iml" filepath="$PROJECT_DIR$/PhonePass/PhonePass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQT/QQT.iml" filepath="$PROJECT_DIR$/QQT/QQT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSMS/TestSMS.iml" filepath="$PROJECT_DIR$/TestSMS/TestSMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidWebsocket/androidWebsocket.iml" filepath="$PROJECT_DIR$/androidWebsocket/androidWebsocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cjj.beautifulrefreshlayout/com.cjj.beautifulrefreshlayout.iml" filepath="$PROJECT_DIR$/com.cjj.beautifulrefreshlayout/com.cjj.beautifulrefreshlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/light_push_client/light_push_client.iml" filepath="$PROJECT_DIR$/light_push_client/light_push_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/light_push_frame/light_push_frame.iml" filepath="$PROJECT_DIR$/light_push_frame/light_push_frame.iml" />
+    </modules>
+  </component>
+</project>

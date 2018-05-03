@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="#f4da92"
+        android:gravity="center"
+        android:text="一层"
+        android:textColor="#fff"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/txt_pd_index"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="1" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="状态：" />
+
+            <TextView
+                android:id="@+id/txt_pd_state"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:gravity="center"
+                android:text="在售"
+                android:textColor="#FF8D8D8D" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bt_1"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="拿起"
+                android:textSize="10dp" />
+
+            <Button
+                android:id="@+id/bt_2"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="放下"
+                android:textSize="10dp" />
+
+            <Button
+                android:id="@+id/bt_3"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="购买"
+                android:textSize="10dp" />
+            <Button
+                android:id="@+id/bt_4"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="下架"
+                android:textSize="10dp" />
+            <Button
+                android:id="@+id/bt_5"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="上架"
+                android:textSize="10dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

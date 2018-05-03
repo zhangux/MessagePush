@@ -1,0 +1,128 @@
+[
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c7d6a55",
+    "lightid": "171",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.0.140",
+    "port": "9090",
+    "mac": "38a28c961d78",
+    "lightid": "173",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c7d6975",
+    "lightid": "175",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c7d6a0d",
+    "lightid": "177",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c9643b6",
+    "lightid": "179",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c961dd2",
+    "lightid": "181",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c96441a",
+    "lightid": "9",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c1923f7",
+    "lightid": "158",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c961d70",
+    "lightid": "164",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "38a28c7d42fa",
+    "lightid": "156",
+    "projectname": "Light_Push"
+  },
+  {
+  "serverip": "192.168.3.253",
+  "port": "9090",
+  "mac": "38a28c340f1c",
+  "lightid": "9huisuo",
+  "projectname": "Light_Push"
+},
+  {
+    "serverip": "192.168.0.140",
+    "port": "9090",
+    "mac": "102ab3698a37",
+    "lightid": "19",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "f470ab14c52c",
+    "lightid": "v1",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.0.133",
+    "port": "9090",
+    "mac": "c8f2300b110e",
+    "lightid": "v2",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.0.133",
+    "port": "9090",
+    "mac": "e8bba8e663af",
+    "lightid": "liu",
+    "projectname": "School_Push"
+  },
+  {
+    "serverip": "192.168.2.253",
+    "port": "9090",
+    "mac": "20a680acfda2",
+    "lightid": "huawei",
+    "projectname": "Light_Push"
+  },
+  {
+    "serverip": "192.168.0.135",
+    "port": "9090",
+    "mac": "102ab3698a36",
+    "lightid": "xiaomi",
+    "projectname": "School_Push"
+  },
+  {
+    "serverip": "192.168.0.135",
+    "port": "9090",
+    "mac": "08002703ce7b",
+    "lightid": "xiaomiben",
+    "projectname": "Light_Push"
+  }
+]

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioGroup
+            android:id="@+id/container_rg"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+
+            <!--<RadioButton
+                android:id="@+id/container_gb_1"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/rg_checked_title"
+                android:button="@null"
+                android:checked="true"
+                android:gravity="center"
+                android:text="设备一"
+                android:textColor="#008cff" />
+
+            <RadioButton
+                android:id="@+id/container_gb_2"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/rg_checked_title"
+                android:button="@null"
+                android:gravity="center"
+                android:text="设备二"
+                android:textColor="#008cff" />
+
+            <RadioButton
+                android:id="@+id/container_gb_3"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/rg_checked_title"
+                android:button="@null"
+                android:gravity="center"
+                android:text="设备三"
+                android:textColor="#008cff" />
+
+            <RadioButton
+                android:id="@+id/container_gb_4"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/rg_checked_title"
+                android:button="@null"
+                android:gravity="center"
+                android:text="设备四"
+                android:textColor="#008cff" />-->
+        </RadioGroup>
+    </LinearLayout>
+    <RadioGroup
+        android:id="@+id/wines_rg"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/check_title"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:orientation="horizontal">
+
+        <!--<RadioButton
+            android:id="@+id/wines_gb_1"
+            android:layout_width="0dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            android:background="@drawable/rg_checked"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="一层"
+            android:textColor="#008cff" />
+
+        <RadioButton
+            android:id="@+id/wines_gb_2"
+            android:layout_width="0dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            android:background="@drawable/rg_checked"
+            android:button="@null"
+            android:gravity="center"
+            android:text="二层"
+            android:textColor="#008cff" />
+
+        <RadioButton
+            android:id="@+id/wines_gb_3"
+            android:layout_width="0dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            android:background="@drawable/rg_checked"
+            android:button="@null"
+            android:gravity="center"
+            android:text="三层"
+            android:textColor="#008cff" />
+
+        <RadioButton
+            android:id="@+id/wines_gb_4"
+            android:layout_width="0dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            android:background="@drawable/rg_checked"
+            android:button="@null"
+            android:gravity="center"
+            android:text="四层"
+            android:textColor="#008cff" />-->
+    </RadioGroup>
+<!--    <android.support.v4.view.ViewPager
+        android:id="@+id/wines_vp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></android.support.v4.view.ViewPager>-->
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_pd"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:transcriptMode="alwaysScroll"
+        android:layout_weight="1"></android.support.v7.widget.RecyclerView>
+    <Button
+        android:id="@+id/bt_clear"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="清除记录"/>
+
+</LinearLayout>
